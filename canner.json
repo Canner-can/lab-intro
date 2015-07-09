@@ -1,7 +1,7 @@
 {
     "layout": "./index.hbs",
     "data": {
-        "banner-img": "http://i.imgur.com/yELhaqV.jpg",
+        "banner-img": "http://i.imgur.com/oVK3uS2.png",
         "home": {
             "instructor": {
                 "name": "王教授",
